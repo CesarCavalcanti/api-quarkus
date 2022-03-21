@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
 Api CidadeEstado é um serviço que disponibiliza a possibilidade do cliente executar um CRUD com Cidades e Estados. Escrita no padrão REST.
 
 # Tecnologias utilizadas
